@@ -1,6 +1,6 @@
 **Sažetak**
 
-Tema ovog završnog rada je izrada aplikacije za ocjenjivanje nastavnika. Aplikacija je izrađena u
+Tema ovog završnog rada u srednjoj je izrada aplikacije za ocjenjivanje nastavnika. Aplikacija je izrađena u
 android studiju u programskom jeziku java. Koristi jednostavan dizajn za lakšu uporabu
 aplikacije te navigacija unutar nje. Prije same izrade aplikacije bitno je poznavati programski
 jezik java, a u radu je objašnjen pojednostavljeni primjer korištenja jave, što je to firebase, čemu
