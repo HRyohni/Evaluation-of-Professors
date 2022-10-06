@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725883662506",
+    "project_id": "notkahoot-e5f89",
+    "storage_bucket": "notkahoot-e5f89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725883662506:android:41b8552503a0848dffe0d3",
+        "android_client_info": {
+          "package_name": "com.example.notkahoot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725883662506-bl7prj1eols5m4o9phuloc4bubj07f48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrGYIvGjTqJbNGliyy36f2OR_m5ZCVmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725883662506-bl7prj1eols5m4o9phuloc4bubj07f48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
