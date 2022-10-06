@@ -151,9 +151,6 @@ public class Odaberi_profesora extends AppCompatActivity implements ExampleDialo
     public void OnStartRefresh( ArrayList<String> arraylist,ArrayAdapter adapter)
     {
         {
-
-
-
             db.collection("Profesori").get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
                 @Override
                 public void onComplete(@NonNull Task<QuerySnapshot> task) {

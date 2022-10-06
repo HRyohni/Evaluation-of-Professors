@@ -107,10 +107,6 @@ public class Status extends AppCompatActivity {
         trojka= Integer.parseInt(strojka);
         cetvora= Integer.parseInt(scetvora);
         petica= Integer.parseInt(spetica);
-
-
-
-
     }
 
     public void setupchart()
@@ -127,14 +123,8 @@ public class Status extends AppCompatActivity {
         pie.data(dataEnteries);
         pie.title("Ocjene");
         pie.background("#B7D8D6");
-
         pie.animation(true);
-
-
-
-
         graph.setChart(pie);
-
     }
 
     public void setupchartMZ()
